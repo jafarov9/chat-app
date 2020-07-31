@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "745775021166",
+    "firebase_url": "https://chat-app-e72b1.firebaseio.com",
+    "project_id": "chat-app-e72b1",
+    "storage_bucket": "chat-app-e72b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745775021166:android:29e9378a9374ada147fa7f",
+        "android_client_info": {
+          "package_name": "com.ntech.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745775021166-28hu92cngvjh6n45da29ls0b8ov6s0kp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ntech.chatapp",
+            "certificate_hash": "2fafac852615910053132a1d33a82fea8e7cc8d2"
+          }
+        },
+        {
+          "client_id": "745775021166-s91bn4tj42psq1mi5c1julsi7376s9ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXdRX35aUwAz4pDsWJEfhBll7pdYRWAUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745775021166-s91bn4tj42psq1mi5c1julsi7376s9ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
