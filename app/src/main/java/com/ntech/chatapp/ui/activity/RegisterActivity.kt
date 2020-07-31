@@ -50,6 +50,10 @@ class RegisterActivity : AppCompatActivity() {
                 }
             }
         }
+
+        btnRegisterToLogin.setOnClickListener {
+            startActivity(Intent(this, LoginActivity::class.java))
+        }
     }
 
 
